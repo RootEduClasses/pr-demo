@@ -1,1 +1,1 @@
-This is a demonstration of pull request
+Pull Request Demonstration Class
